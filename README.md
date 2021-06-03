@@ -122,7 +122,7 @@ HOW TO INSTALL UCLATHES
 -----------------------
 
 The simplest way to install uclathes is to copy *.cls, *.clo, and *.bst
-into the directory where you run LaTeX.
+into the directory where you run LaTeX -- the same directory in which your disseration or thesis's .tex file resides.
 
 Alternatively, you can copy these files into wherever LaTeX looks
 for its inputs.
